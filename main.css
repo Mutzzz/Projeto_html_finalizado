@@ -1,0 +1,11 @@
+.container{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+    width: 1366px;
+
+}
+
+body {
+    background-color: rgba(0, 255, 255, 0.158);
+}
